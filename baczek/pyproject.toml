@@ -1,0 +1,15 @@
+[project]
+name = "baczek"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "imgui[pygame]==2.0.0",
+    "numpy>=1.24.3,<2.0.0",
+    "numpy-quaternion==2022.4.3",
+    "pygame==2.5.2",
+    "pyopengl==3.1.7",
+    "quaternion>=3.5.2.post4",
+    "scipy>=1.15.1",
+]
