@@ -1,10 +1,11 @@
 [project]
-name = "baczek"
+name = "zelek"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "glfw>=2.8.0",
     "imgui[pygame]==2.0.0",
     "numpy>=1.24.3,<2.0.0",
     "numpy-quaternion==2022.4.3",

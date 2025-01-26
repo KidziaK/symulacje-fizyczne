@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: zelek
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: imgui[pygame]==2.0.0
+Requires-Dist: numpy<2.0.0,>=1.24.3
+Requires-Dist: numpy-quaternion==2022.4.3
+Requires-Dist: pygame==2.5.2
+Requires-Dist: pyopengl==3.1.7
+Requires-Dist: quaternion>=3.5.2.post4
+Requires-Dist: scipy>=1.15.1

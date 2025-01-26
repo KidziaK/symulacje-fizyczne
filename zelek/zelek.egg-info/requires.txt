@@ -1,0 +1,7 @@
+imgui[pygame]==2.0.0
+numpy<2.0.0,>=1.24.3
+numpy-quaternion==2022.4.3
+pygame==2.5.2
+pyopengl==3.1.7
+quaternion>=3.5.2.post4
+scipy>=1.15.1

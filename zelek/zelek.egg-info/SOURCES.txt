@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+zelek.egg-info/PKG-INFO
+zelek.egg-info/SOURCES.txt
+zelek.egg-info/dependency_links.txt
+zelek.egg-info/requires.txt
+zelek.egg-info/top_level.txt
